@@ -11,15 +11,16 @@ namespace OODPractice
         public string Make;
         public string Model;
         public int Year;
-        private double mileage;
+        public double Mileage { get; private set; }
         public List<string> OwnerHistory;
+        private static int numWheels = 4;
 
         public Car()
         {
             Make = "Honda";
             Model = "Accord";
             Year = 2000;
-            mileage = 200_000;
+            Mileage = 200_000;
             OwnerHistory = new List<string>();
         }
 
@@ -28,23 +29,18 @@ namespace OODPractice
             Make = make;
             Model = model;
             Year = year;
-            this.mileage = mileage;
+            this.Mileage = mileage;
         }
 
         public double AddMiles(double mileage)
         {
-            this.mileage += mileage;
-            return this.mileage;
+            this.Mileage += mileage;
+            return this.Mileage;
         }
 
-        public double GetMileage()
+        public int GetNumWheels()
         {
-            return mileage;
-        }
-
-        public void SetMileage(double mileage)
-        {
-            this.mileage = mileage;
+            return numWheels;
         }
     }
 }

@@ -34,20 +34,38 @@ namespace OODPractice
         public void TestAddMiles()
         {
             var car = new Car();
-            car.SetMileage(200_000);
             var mileage = car.AddMiles(100_000);
 
             Assert.AreEqual(mileage, 300_000);
         }
 
         [TestMethod]
-        public void TestSetMileage()
+        public void TestGetNumWheels()
         {
             var car = new Car();
-            car.SetMileage(400_000);
-            var mileage = car.GetMileage();
+            var numWheels = car.GetNumWheels();
 
-            Assert.AreEqual(mileage, 400_000);
+            Assert.AreEqual(numWheels, 4);
         }
+
+        //[TestMethod]
+        //public void TestAddMiles()
+        //{
+        //    var car = new Car();
+        //    car.SetMileage(200_000);
+        //    var mileage = car.AddMiles(100_000);
+
+        //    Assert.AreEqual(mileage, 300_000);
+        //}
+
+        //[TestMethod]
+        //public void TestSetMileage()
+        //{
+        //    var car = new Car();
+        //    car.SetMileage(400_000);
+        //    var mileage = car.GetMileage();
+
+        //    Assert.AreEqual(mileage, 400_000);
+        //}
     }
 }
