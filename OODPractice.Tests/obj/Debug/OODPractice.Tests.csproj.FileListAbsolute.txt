@@ -1,0 +1,17 @@
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\OODPractice.Tests.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\OODPractice.Tests.pdb
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\OODPractice.exe
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\OODPractice.pdb
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\OODPractice.exe.config
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\obj\Debug\OODPractice.Tests.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\obj\Debug\OODPractice.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\obj\Debug\OODPractice.Tests.csproj.CopyComplete
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\obj\Debug\OODPractice.Tests.dll
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice.Tests\obj\Debug\OODPractice.Tests.pdb

@@ -1,0 +1,7 @@
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\bin\Debug\OODPractice.exe.config
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\bin\Debug\OODPractice.exe
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\bin\Debug\OODPractice.pdb
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\obj\Debug\OODPractice.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\obj\Debug\OODPractice.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\obj\Debug\OODPractice.exe
+C:\Users\v-miyan\source\repos\OODPractice\OODPractice\obj\Debug\OODPractice.pdb
